@@ -1,4 +1,4 @@
-## Hello 👋 ![](https://komarev.com/ghpvc/?username=seasky2&color=red&style=plastic&label=Visitors)
+## Hello 👋 ![](https://komarev.com/ghpvc/?username=seasky2&color=blue&style=plastic&label=Visitors)
 
 <!--
 **seasky2/seasky2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
