@@ -20,4 +20,4 @@ I'm Jean from Sao Jose do Rio Preto, Brazil.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="go logo"  />
 </div><br>
 
-Thank you for visiting my profile, keep rocking! 🤘​
+Thank you for visiting my profile, keep rocking! 🎸​
