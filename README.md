@@ -6,7 +6,7 @@
 
 I'm Jean from Sao Jose do Rio Preto, Brazil.
 
-• 💼 I’m working as IT Analyst, seeking carrer migration to developer.<br>
+• 💼 I’m working as SAP Functional Analyst in V360, but also learning development.<br>
 • 📚​ I’m currently learning Python.<br>
 • 🎮​ In my free time I like to play MMORPGs and DIY home stuff listening metal.<br>
 
