@@ -13,11 +13,8 @@ I'm Jean from Sao Jose do Rio Preto, Brazil.
 ### 🖥️​​ Known Languages (and counting...)
 
 <div>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" height="40" alt="go logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" alt="go logo"  />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="go logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="go logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="go logo"  />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" height="40" alt="go logo"  />
 </div><br>
 
 Thank you for visiting my profile, keep rocking! 🎸​
