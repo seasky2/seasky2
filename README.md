@@ -9,7 +9,7 @@ SAP Functional Analyst at [V360](https://v360.io/).<br><br>
 
 ![Python](https://img.shields.io/badge/Python-336EA0)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D)
-![SQL](https://img.shields.io/badge/SQL-DB7533)
+![SQL](https://img.shields.io/badge/SQL-E38C00)
 <br>
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791)
 ![Ruby On Rails](https://img.shields.io/badge/Ruby_On_Rails-D30001)
