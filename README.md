@@ -4,7 +4,7 @@
 
 Onboarding and mentoring as SAP Functional Analyst at [V360](https://virtual360.io).
 
-- I use daily: `.json` `.md` `.rb` `.sql` `.xml`
+- I use daily: `.json` `.md` `.py` `.rb` `.sql` `.xml`
 
 ## 🖥️ Technologies
 
